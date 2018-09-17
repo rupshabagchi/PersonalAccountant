@@ -1,3 +1,5 @@
 # Personal Accountant
 
-Python, pandas, data analysis
+Python
+pandas
+data analysis
